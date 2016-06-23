@@ -1,3 +1,3 @@
 # hello-world
-just another
-elegant code? teach me
+beginner
+hey jude
